@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*mB6YLIGqIk1hTzU6Fb12zQ.gif)
+![MasterHead](https://assets-v2.lottiefiles.com/a/f62481a4-1172-11ee-aa7c-232f008dfb14/Sl4fTVnhQL.gif)
 
 
 

@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Maria Anthony Yokesh</h1>
-<h3 align="center">A passionate frontend developer And Programmer from India</h3>
+<h3 align="center">A passionate Full-Stack developer And Programmer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 

@@ -1,4 +1,5 @@
-[![MasterHead](https://assets-v2.lottiefiles.com/a/f62481a4-1172-11ee-aa7c-232f008dfb14/Sl4fTVnhQL.gif)]()
+![MasterHead](https://hackernoon.com/images/f2px36fy.gif)
+
 
 
 

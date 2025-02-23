@@ -1,8 +1,4 @@
-![MasterHead](https://hackernoon.com/images/f2px36fy.gif)
-
-
-
-
+![Programmer](https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif)
 
 <h1 align="center">Hi 👋, I'm Maria Anthony Yokesh</h1>
 <h3 align="center">A passionate Full-Stack developer And Programmer from India</h3>

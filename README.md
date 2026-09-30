@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="Maria Antony Yokesh V - Software Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=900&color=93C5FD&center=true&vCenter=true&width=860&lines=Enterprise+Java+%2B+Angular+engineer;Shipped+features+for+TeamForge+ALM+26.0;Built+MCP+server+action+tools+for+ALM+artifacts;Spring+Boot+%C2%B7+React+%C2%B7+PostgreSQL+%C2%B7+CI%2FCD;Available+for+freelance+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=900&color=93C5FD&center=true&vCenter=true&width=860&lines=Enterprise+Java+%2B+Angular+engineer;Shipped+features+for+TeamForge+ALM+26.0;Built+MCP+server+action+tools+for+ALM+artifacts;Spring+Boot+%C2%B7+React+%C2%B7+PostgreSQL+%C2%B7+CI%2FCD;Available+for+full-time+and+freelance+projects" alt="Typing SVG" />
 
 <br/>
 
@@ -10,12 +10,21 @@
 [![Email](https://img.shields.io/badge/Email-Hire_Me-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220)](mailto:mariaanthonyyokeshv6565@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0b1220)](https://www.leetcode.com/u/mariaanthonyyokesh/)
 [![Blog](https://img.shields.io/badge/Tech_Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0b1220)](https://techbytetalks.blogspot.com/)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=yokesh4&style=for-the-badge&color=6d28d9&labelColor=0b1220&label=PROFILE+VIEWS)
 
 <br/>
 
-## ✦ At a Glance
+<img src="./assets/id-card.svg" width="86%" alt="Developer ID card for Maria Antony Yokesh V" />
+
+<br/>
+
+**[About](#-about-me)** · **[Impact](#-impact-at-a-glance)** · **[Journey](#-career-journey)** · **[Services](#-services-for-freelance-clients)** · **[Experience](#-experience)** · **[Projects](#-featured-projects)** · **[Stack](#-tech-stack)** · **[Contact](#-lets-work-together)**
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+## ✦ About Me
 
 <div align="center">
 
@@ -29,7 +38,62 @@ I'm a software developer with **enterprise experience building Java and Angular 
 
 I recently completed my internship at **Digital.ai (Mar – Sept 2026)** on the TeamForge ALM team, and I'm now open to **full-time roles and freelance projects**.
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧭 Quick Facts
+
+| | |
+|:--|:--|
+| 💼 **Role** | Software Developer |
+| 🏢 **Last role** | Digital.ai · TeamForge ALM |
+| 🛠️ **Core stack** | Java · Spring Boot · Angular · React |
+| 🗄️ **Data** | PostgreSQL · MySQL · MongoDB · Redis |
+| 📬 **Status** | Open to full-time & freelance |
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎯 What I Care About
+
+- 🔐 **Secure by default**: JWT, BCrypt, RBAC, rate limiting
+- 🧱 **Maintainable code**: shared services, reusable components
+- 🚢 **Shipping**: CI/CD, containers, uptime monitoring
+- 🧪 **Confidence**: end-to-end tests with Playwright
+- 🤝 **Sharing knowledge**: mentoring and writing on my blog
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## ✦ Impact at a Glance
+
+<div align="center">
+  <img src="./assets/impact.svg" width="100%" alt="Impact metrics: 40% faster queries, 95%+ responsive pages, 30+ students mentored, 100+ DSA problems, 4 internships, 4+ featured builds" />
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## ✦ Career Journey
+
+```mermaid
+timeline
+    title From web pages to enterprise ALM
+    Jun 2024 : Web Developer Intern at Qantler Technologies
+             : Responsive e-commerce pages, 95%+ cross-browser
+    Sept 2025 : SDE Intern at Bluestock Fintech
+              : REST APIs, React components, 40% faster queries
+    Nov 2025 : Software Engineer Intern at BoosterEdu
+             : Shipped v1.0.0, GitLab CI/CD, Learnix AI
+    Mar 2026 : Software Developer Intern at Digital.ai
+             : TeamForge ALM 26.0, Angular services, MCP action tools
+    Sept 2026 : Open to full-time and freelance
+```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ✦ Services for Freelance Clients
 
@@ -37,9 +101,19 @@ I recently completed my internship at **Digital.ai (Mar – Sept 2026)** on the 
   <img src="./assets/services.svg" width="100%" alt="Freelance services: full-stack apps, REST APIs, AI features, CI/CD, legacy modernization, testing" />
 </div>
 
+<br/>
+
+<div align="center">
+
+| 1️⃣ **Brief** | 2️⃣ **Scope** | 3️⃣ **Build** | 4️⃣ **Demo** | 5️⃣ **Deliver** |
+|:---:|:---:|:---:|:---:|:---:|
+| Send a short<br/>email brief | Approach, timeline<br/>and milestones | Clean, documented<br/>code with secure defaults | Regular demos<br/>and feedback | Deployed, tested<br/>and handed over |
+
+</div>
+
 > **How I work:** clear scope, regular demos, clean and documented code, and secure defaults. Send a short brief by [email](mailto:mariaanthonyyokeshv6565@gmail.com) and I'll reply with an approach and timeline.
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ✦ Experience
 
@@ -102,7 +176,7 @@ I recently completed my internship at **Digital.ai (Mar – Sept 2026)** on the 
 </tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ✦ Featured Projects
 
@@ -163,7 +237,7 @@ Secure authentication and quiz workflows for online assessments.
 
 </details>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ✦ Engineering Approach
 
@@ -184,11 +258,15 @@ flowchart LR
 | 🚢 **Delivery** | GitLab pipelines, containerized deploys, uptime monitoring |
 | ♻️ **Modernization** | Legacy JSP to Angular, consistent shared service layers |
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ✦ Tech Stack
 
 <div align="center">
+
+<img src="./assets/tech-marquee.svg" width="100%" alt="Technologies: Java, Spring Boot, Angular, React, PostgreSQL, GitLab CI/CD, Docker, Playwright, MCP and more" />
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,react,js,nodejs,express&theme=dark" alt="Languages and frameworks" />
 <br/><br/>
@@ -202,7 +280,7 @@ flowchart LR
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ✦ GitHub Analytics
 
@@ -211,12 +289,20 @@ flowchart LR
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokesh4&layout=compact&hide_border=true&theme=transparent&title_color=93c5fd&text_color=cbd5e1&langs_count=8" alt="Top languages" />
   <br/>
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=yokesh4&theme=dark&hide_border=true&background=00000000&stroke=ffffff22&ring=8b5cf6&fire=60a5fa&currStreakLabel=93c5fd" alt="Contribution streak" />
+  <br/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yokesh4&theme=react-dark&hide_border=true&bg_color=0d1117&color=93c5fd&line=8b5cf6&point=ffffff" alt="Contribution activity graph" />
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## ✦ Let's Work Together
 
 <div align="center">
   <a href="mailto:mariaanthonyyokeshv6565@gmail.com">
     <img src="./assets/cta.svg" width="100%" alt="Have a project in mind? Get in touch" />
   </a>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=110&section=footer" width="100%" alt="" />
 </div>

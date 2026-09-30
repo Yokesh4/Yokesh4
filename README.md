@@ -6,78 +6,96 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220)](https://www.linkedin.com/in/mariaanthonyyokesh/)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220)](mailto:mariaanthonyyokeshv6565@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0b1220)](https://www.leetcode.com/u/mariaanthonyyokesh/)
-[![Blog](https://img.shields.io/badge/Tech_Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0b1220)](https://techbytetalks.blogspot.com/)
-![Profile Views](https://komarev.com/ghpvc/?username=yokesh4&style=for-the-badge&color=6d28d9&labelColor=0b1220&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/mariaanthonyyokesh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220" alt="LinkedIn" /></a>
+<a href="mailto:mariaanthonyyokeshv6565@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220" alt="Email" /></a>
+<a href="https://www.leetcode.com/u/mariaanthonyyokesh/"><img src="https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0b1220" alt="LeetCode" /></a>
+<a href="https://techbytetalks.blogspot.com/"><img src="https://img.shields.io/badge/Tech_Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0b1220" alt="Blog" /></a>
+<img src="https://komarev.com/ghpvc/?username=yokesh4&style=for-the-badge&color=6d28d9&labelColor=0b1220&label=PROFILE+VIEWS" alt="Profile views" />
 
-<br/>
+<br/><br/>
 
 <img src="./assets/id-card.svg" width="86%" alt="Developer ID card for Maria Antony Yokesh V" />
 
-<br/>
+<br/><br/>
 
-**[About](#-about-me)** · **[Impact](#-impact-at-a-glance)** · **[Journey](#-career-journey)** · **[Services](#-services-for-freelance-clients)** · **[Experience](#-experience)** · **[Projects](#-featured-projects)** · **[Stack](#-tech-stack)** · **[Contact](#-lets-work-together)**
+<a href="#about"><img src="https://img.shields.io/badge/About-0b1220?style=flat-square&labelColor=0b1220&color=93c5fd" alt="About" /></a>
+<a href="#impact"><img src="https://img.shields.io/badge/Impact-0b1220?style=flat-square&labelColor=0b1220&color=93c5fd" alt="Impact" /></a>
+<a href="#journey"><img src="https://img.shields.io/badge/Journey-0b1220?style=flat-square&labelColor=0b1220&color=93c5fd" alt="Journey" /></a>
+<a href="#services"><img src="https://img.shields.io/badge/Services-0b1220?style=flat-square&labelColor=0b1220&color=93c5fd" alt="Services" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/Experience-0b1220?style=flat-square&labelColor=0b1220&color=93c5fd" alt="Experience" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-0b1220?style=flat-square&labelColor=0b1220&color=93c5fd" alt="Projects" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Stack-0b1220?style=flat-square&labelColor=0b1220&color=93c5fd" alt="Stack" /></a>
+<a href="#analytics"><img src="https://img.shields.io/badge/Analytics-0b1220?style=flat-square&labelColor=0b1220&color=93c5fd" alt="Analytics" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-0b1220?style=flat-square&labelColor=0b1220&color=8b5cf6" alt="Contact" /></a>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
 
-## ✦ About Me
+<h2 id="about" align="center"><img src="./assets/sections/about.svg" width="100%" alt="About Me" /></h2>
 
 <div align="center">
 
-| 🏢 **Enterprise** | 🚀 **Product** | 🤖 **AI** | 🎓 **Mentoring** |
-|:---:|:---:|:---:|:---:|
-| TeamForge ALM 26.0<br/>Digital.ai | BoosterEdu v1.0.0<br/>Java · Spring Boot · React | Learnix AI + MCP tools<br/>Groq API | 30+ students trained<br/>100+ DSA problems |
+<table>
+<tr>
+<td align="center" width="25%"><sub>ENTERPRISE</sub><br/><b>TeamForge ALM 26.0</b><br/><sub>Digital.ai</sub></td>
+<td align="center" width="25%"><sub>PRODUCT</sub><br/><b>BoosterEdu v1.0.0</b><br/><sub>Java · Spring Boot · React</sub></td>
+<td align="center" width="25%"><sub>AI</sub><br/><b>Learnix AI + MCP tools</b><br/><sub>Groq API</sub></td>
+<td align="center" width="25%"><sub>MENTORING</sub><br/><b>30+ students trained</b><br/><sub>100+ DSA problems</sub></td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
 I'm a software developer with **enterprise experience building Java and Angular applications**. I work across the stack, from Spring Boot services and PostgreSQL models to Angular and React interfaces, and I care about secure, maintainable, production-ready delivery.
 
-I recently completed my internship at **Digital.ai (Mar – Sept 2026)** on the TeamForge ALM team, and I'm now open to **full-time roles and freelance projects**.
+> [!NOTE]
+> I recently completed my internship at **Digital.ai (Mar – Sept 2026)** on the TeamForge ALM team, and I'm now open to **full-time roles and freelance projects**.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧭 Quick Facts
+<p align="center"><b>QUICK FACTS</b></p>
 
 | | |
 |:--|:--|
-| 💼 **Role** | Software Developer |
-| 🏢 **Last role** | Digital.ai · TeamForge ALM |
-| 🛠️ **Core stack** | Java · Spring Boot · Angular · React |
-| 🗄️ **Data** | PostgreSQL · MySQL · MongoDB · Redis |
-| 📬 **Status** | Open to full-time & freelance |
+| **Role** | Software Developer |
+| **Last role** | Digital.ai · TeamForge ALM |
+| **Core stack** | Java · Spring Boot · Angular · React |
+| **Data** | PostgreSQL · MySQL · MongoDB · Redis |
+| **Status** | ![Open](https://img.shields.io/badge/Open_to_work-16a34a?style=flat-square&labelColor=0b1220) full-time and freelance |
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎯 What I Care About
+<p align="center"><b>WHAT I CARE ABOUT</b></p>
 
-- 🔐 **Secure by default**: JWT, BCrypt, RBAC, rate limiting
-- 🧱 **Maintainable code**: shared services, reusable components
-- 🚢 **Shipping**: CI/CD, containers, uptime monitoring
-- 🧪 **Confidence**: end-to-end tests with Playwright
-- 🤝 **Sharing knowledge**: mentoring and writing on my blog
+| | |
+|:--|:--|
+| **Secure by default** | JWT, BCrypt, RBAC, rate limiting |
+| **Maintainable code** | Shared services, reusable components |
+| **Shipping** | CI/CD, containers, uptime monitoring |
+| **Confidence** | End-to-end tests with Playwright |
+| **Sharing** | Mentoring and writing on my blog |
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-## ✦ Impact at a Glance
+<h2 id="impact" align="center"><img src="./assets/sections/impact.svg" width="100%" alt="Impact at a Glance" /></h2>
 
 <div align="center">
   <img src="./assets/impact.svg" width="100%" alt="Impact metrics: 40% faster queries, 95%+ responsive pages, 30+ students mentored, 100+ DSA problems, 4 internships, 4+ featured builds" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-## ✦ Career Journey
+<h2 id="journey" align="center"><img src="./assets/sections/journey.svg" width="100%" alt="Career Journey" /></h2>
 
 ```mermaid
 timeline
@@ -93,9 +111,9 @@ timeline
     Sept 2026 : Open to full-time and freelance
 ```
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-## ✦ Services for Freelance Clients
+<h2 id="services" align="center"><img src="./assets/sections/services.svg" width="100%" alt="Freelance Services" /></h2>
 
 <div align="center">
   <img src="./assets/services.svg" width="100%" alt="Freelance services: full-stack apps, REST APIs, AI features, CI/CD, legacy modernization, testing" />
@@ -105,25 +123,32 @@ timeline
 
 <div align="center">
 
-| 1️⃣ **Brief** | 2️⃣ **Scope** | 3️⃣ **Build** | 4️⃣ **Demo** | 5️⃣ **Deliver** |
-|:---:|:---:|:---:|:---:|:---:|
-| Send a short<br/>email brief | Approach, timeline<br/>and milestones | Clean, documented<br/>code with secure defaults | Regular demos<br/>and feedback | Deployed, tested<br/>and handed over |
+<table>
+<tr>
+<td align="center" width="20%"><b>01</b><br/><sub>BRIEF</sub><br/>Send a short<br/>email brief</td>
+<td align="center" width="20%"><b>02</b><br/><sub>SCOPE</sub><br/>Approach, timeline<br/>and milestones</td>
+<td align="center" width="20%"><b>03</b><br/><sub>BUILD</sub><br/>Clean, documented<br/>code, secure defaults</td>
+<td align="center" width="20%"><b>04</b><br/><sub>DEMO</sub><br/>Regular demos<br/>and feedback</td>
+<td align="center" width="20%"><b>05</b><br/><sub>DELIVER</sub><br/>Deployed, tested<br/>and handed over</td>
+</tr>
+</table>
 
 </div>
 
+> [!TIP]
 > **How I work:** clear scope, regular demos, clean and documented code, and secure defaults. Send a short brief by [email](mailto:mariaanthonyyokeshv6565@gmail.com) and I'll reply with an approach and timeline.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-## ✦ Experience
+<h2 id="experience" align="center"><img src="./assets/sections/experience.svg" width="100%" alt="Experience" /></h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Software Developer Intern
-**Digital.ai** · Chennai
-`Mar 2026 – Sept 2026` ![Completed](https://img.shields.io/badge/-Completed-16a34a?style=flat-square)
+**Software Developer Intern**<br/>
+Digital.ai · Chennai<br/>
+<img src="https://img.shields.io/badge/Mar_2026_–_Sept_2026-1e293b?style=flat-square&labelColor=0b1220" alt="Mar 2026 - Sept 2026" /> <img src="https://img.shields.io/badge/Completed-16a34a?style=flat-square&labelColor=0b1220" alt="Completed" />
 
 - Developed enterprise features for **TeamForge ALM 26.0** with Java and Angular
 - Built **reusable Angular services** shared across modules
@@ -131,97 +156,97 @@ timeline
 - Resolved **production defects** across the SDLC
 - **Freestyle Week:** contributed to an **MCP server**, building action tools to create, update and delete ALM artifacts
 
-`Java` `Angular` `ngx-toastr` `Spring Boot` `PostgreSQL` `Playwright` `GitLab` `MCP`
+<img src="https://skillicons.dev/icons?i=java,angular,spring,postgres,playwright,gitlab&theme=dark" alt="Java, Angular, Spring, PostgreSQL, Playwright, GitLab" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Software Engineer Intern
-**BoosterEdu** · Tirunelveli
-`Nov 2025 – Feb 2026` ![Release](https://img.shields.io/badge/-v1.0.0-2563eb?style=flat-square)
+**Software Engineer Intern**<br/>
+BoosterEdu · Tirunelveli<br/>
+<img src="https://img.shields.io/badge/Nov_2025_–_Feb_2026-1e293b?style=flat-square&labelColor=0b1220" alt="Nov 2025 - Feb 2026" /> <img src="https://img.shields.io/badge/Release-v1.0.0-2563eb?style=flat-square&labelColor=0b1220" alt="v1.0.0" />
 
 - Built **BoosterEdu v1.0.0** with Java, Spring Boot, React and PostgreSQL
 - Set up **GitLab CI/CD** pipelines and deployment
 - Integrated **Learnix AI** using the **Groq API** to summarize LMS content and generate context-based quizzes and technical interview questions for premium users
 
-`Java` `Spring Boot` `React` `PostgreSQL` `GitLab CI/CD` `Groq API`
+<img src="https://skillicons.dev/icons?i=java,spring,react,postgres,gitlab&theme=dark" alt="Java, Spring, React, PostgreSQL, GitLab" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 SDE Intern
-**Bluestock Fintech** · Remote
-`Sept 2025 – Oct 2025`
+**SDE Intern**<br/>
+Bluestock Fintech · Remote<br/>
+<img src="https://img.shields.io/badge/Sept_2025_–_Oct_2025-1e293b?style=flat-square&labelColor=0b1220" alt="Sept 2025 - Oct 2025" />
 
 - Implemented **REST APIs** and reusable **React components** across projects
 - Optimized PostgreSQL queries for a **40%** performance gain
 
-`React` `Node.js` `Express` `PostgreSQL`
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres&theme=dark" alt="React, Node.js, Express, PostgreSQL" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web Developer Intern
-**Qantler Technologies**
-`Jun 2024`
+**Web Developer Intern**<br/>
+Qantler Technologies<br/>
+<img src="https://img.shields.io/badge/Jun_2024-1e293b?style=flat-square&labelColor=0b1220" alt="Jun 2024" />
 
 - Built responsive e-commerce pages with cart and billing modules
 - Reached **95%+** cross-browser responsiveness
 
-`HTML5` `CSS3` `JavaScript` `AJAX`
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" />
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-## ✦ Featured Projects
+<h2 id="projects" align="center"><img src="./assets/sections/projects.svg" width="100%" alt="Featured Projects" /></h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Impact Guard
-*Enterprise Line-Level Impact Analyzer*
+**Impact Guard**<br/>
+<sub>ENTERPRISE LINE-LEVEL IMPACT ANALYZER</sub>
 
 A **VS Code extension** that uses **AST parsers and dependency graphs** to show what a code change affects, down to the line.
 
-`TypeScript` `Node.js` `VS Code API`
+<img src="https://skillicons.dev/icons?i=ts,nodejs,vscode&theme=dark" alt="TypeScript, Node.js, VS Code" />
 
 </td>
 <td width="50%" valign="top">
 
-### 📋 TaskOrbit
-*Enterprise Task Management Platform*
+**TaskOrbit**<br/>
+<sub>ENTERPRISE TASK MANAGEMENT PLATFORM</sub>
 
-Task platform with **REST APIs and role-based access control (RBAC)** on a modern Java and React stack.
+Task platform with **REST APIs and role-based access control (RBAC)** on a modern Java and React stack (Java 17, Spring Boot 3.2, React 19).
 
-`Java 17` `Spring Boot 3.2` `React 19` `PostgreSQL`
+<img src="https://skillicons.dev/icons?i=java,spring,react,postgres&theme=dark" alt="Java, Spring, React, PostgreSQL" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 BoosterEdu + Learnix AI
-*Edtech platform with an LLM assistant*
+**BoosterEdu + Learnix AI**<br/>
+<sub>EDTECH PLATFORM WITH AN LLM ASSISTANT</sub>
 
 Interactive learning content with AI summaries, quiz generation and interview-question practice.
 
-`Spring Boot` `React` `Groq API` `GitLab CI/CD`
+<img src="https://skillicons.dev/icons?i=spring,react,gitlab&theme=dark" alt="Spring, React, GitLab" /> <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&labelColor=0b1220" alt="Groq API" />
 
 </td>
 <td width="50%" valign="top">
 
-### 📝 JQuiz Platform
-*Online assessment platform*
+**JQuiz Platform**<br/>
+<sub>ONLINE ASSESSMENT PLATFORM</sub>
 
 Secure authentication and quiz workflows for online assessments.
 
-`Spring Boot` `React`
+<img src="https://skillicons.dev/icons?i=spring,react&theme=dark" alt="Spring, React" />
 
 </td>
 </tr>
@@ -232,14 +257,16 @@ Secure authentication and quiz workflows for online assessments.
 
 <br/>
 
-- 🛒 **Full-Stack E-commerce Platform** (Java, Spring Boot, React, PostgreSQL): authentication, catalog, search, cart and bill printing
-- 💬 **Real-Time Chat & AI Assistant** (React, Node.js, MongoDB, Groq): live messaging, JWT security, Brevo OTP recovery
+| Project | Stack | Highlights |
+|:--|:--|:--|
+| **Full-Stack E-commerce Platform** | Java · Spring Boot · React · PostgreSQL | Authentication, catalog, search, cart and bill printing |
+| **Real-Time Chat & AI Assistant** | React · Node.js · MongoDB · Groq | Live messaging, JWT security, Brevo OTP recovery |
 
 </details>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-## ✦ Engineering Approach
+<h2 id="approach" align="center"><img src="./assets/sections/approach.svg" width="100%" alt="Engineering Approach" /></h2>
 
 ```mermaid
 flowchart LR
@@ -253,49 +280,66 @@ flowchart LR
 
 | Focus | Practice |
 |:--|:--|
-| 🔐 **Security** | JWT access and refresh tokens, BCrypt hashing, RBAC, rate limiting, OTP flows |
-| 🧪 **Quality** | Playwright end-to-end tests, reusable services and components |
-| 🚢 **Delivery** | GitLab pipelines, containerized deploys, uptime monitoring |
-| ♻️ **Modernization** | Legacy JSP to Angular, consistent shared service layers |
+| **Security** | JWT access and refresh tokens, BCrypt hashing, RBAC, rate limiting, OTP flows |
+| **Quality** | Playwright end-to-end tests, reusable services and components |
+| **Delivery** | GitLab pipelines, containerized deploys, uptime monitoring |
+| **Modernization** | Legacy JSP to Angular, consistent shared service layers |
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-## ✦ Tech Stack
+<h2 id="stack" align="center"><img src="./assets/sections/stack.svg" width="100%" alt="Tech Stack" /></h2>
 
 <div align="center">
 
 <img src="./assets/tech-marquee.svg" width="100%" alt="Technologies: Java, Spring Boot, Angular, React, PostgreSQL, GitLab CI/CD, Docker, Playwright, MCP and more" />
 
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%"><sub>BACKEND</sub><br/><br/><img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express&theme=dark" alt="Backend" /></td>
+<td align="center" width="25%"><sub>FRONTEND</sub><br/><br/><img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css&theme=dark" alt="Frontend" /></td>
+</tr>
+<tr>
+<td align="center"><sub>DATA</sub><br/><br/><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Data" /></td>
+<td align="center"><sub>DEVOPS</sub><br/><br/><img src="https://skillicons.dev/icons?i=gitlab,git,docker,maven,vercel&theme=dark" alt="DevOps" /></td>
+</tr>
+<tr>
+<td align="center" colspan="2"><sub>TOOLS AND TESTING</sub><br/><br/><img src="https://skillicons.dev/icons?i=idea,vscode,postman,playwright&theme=dark" alt="Tools and testing" /></td>
+</tr>
+</table>
+
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,react,js,nodejs,express&theme=dark" alt="Languages and frameworks" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,gitlab,git,docker,maven&theme=dark" alt="Data and DevOps" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman,vercel,playwright&theme=dark" alt="Tools" />
-
-<br/>
-
-`Groq API` · `JDoodle API` · `Brevo` · `Render` · `UptimeRobot` · `JWT` · `MCP` · `Agile`
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&labelColor=0b1220" alt="Groq API" />
+<img src="https://img.shields.io/badge/JDoodle_API-1e293b?style=flat-square&labelColor=0b1220" alt="JDoodle API" />
+<img src="https://img.shields.io/badge/Brevo-0B996E?style=flat-square&labelColor=0b1220" alt="Brevo" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white&labelColor=0b1220" alt="Render" />
+<img src="https://img.shields.io/badge/UptimeRobot-3BD671?style=flat-square&labelColor=0b1220" alt="UptimeRobot" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0b1220" alt="JWT" />
+<img src="https://img.shields.io/badge/MCP-8b5cf6?style=flat-square&labelColor=0b1220" alt="MCP" />
+<img src="https://img.shields.io/badge/Agile-2563eb?style=flat-square&labelColor=0b1220" alt="Agile" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-## ✦ GitHub Analytics
+<h2 id="analytics" align="center"><img src="./assets/sections/analytics.svg" width="100%" alt="GitHub Analytics" /></h2>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yokesh4&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=93c5fd&icon_color=8b5cf6&text_color=cbd5e1" alt="GitHub stats" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokesh4&layout=compact&hide_border=true&theme=transparent&title_color=93c5fd&text_color=cbd5e1&langs_count=8" alt="Top languages" />
+  <br/><br/>
+  <img width="98%" src="https://streak-stats.demolab.com/?user=yokesh4&theme=dark&hide_border=true&background=00000000&stroke=ffffff22&ring=8b5cf6&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=94a3b8" alt="Contribution streak" />
+  <br/><br/>
+  <sub><b>CONTRIBUTION CALENDAR</b></sub>
   <br/>
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=yokesh4&theme=dark&hide_border=true&background=00000000&stroke=ffffff22&ring=8b5cf6&fire=60a5fa&currStreakLabel=93c5fd" alt="Contribution streak" />
-  <br/>
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yokesh4&theme=react-dark&hide_border=true&bg_color=0d1117&color=93c5fd&line=8b5cf6&point=ffffff" alt="Contribution activity graph" />
+  <img width="98%" src="https://ghchart.rshah.org/8b5cf6/yokesh4" alt="Contribution calendar for yokesh4" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-## ✦ Let's Work Together
+<h2 id="contact" align="center"><img src="./assets/sections/contact.svg" width="100%" alt="Let's Work Together" /></h2>
 
 <div align="center">
   <a href="mailto:mariaanthonyyokeshv6565@gmail.com">

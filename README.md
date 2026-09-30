@@ -10,7 +10,7 @@
 <a href="mailto:mariaanthonyyokeshv6565@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220" alt="Email" /></a>
 <a href="https://www.leetcode.com/u/mariaanthonyyokesh/"><img src="https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0b1220" alt="LeetCode" /></a>
 <a href="https://techbytetalks.blogspot.com/"><img src="https://img.shields.io/badge/Tech_Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0b1220" alt="Blog" /></a>
-<img src="https://komarev.com/ghpvc/?username=yokesh4&style=for-the-badge&color=6d28d9&labelColor=0b1220&label=PROFILE+VIEWS" alt="Profile views" />
+
 
 <br/><br/>
 
